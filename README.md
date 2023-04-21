@@ -46,7 +46,8 @@ Once you have installed the correct dependencies, click the green 'Run' icon at 
 > Remember to cd into your autocatcher folder as well. If you need any help with something, feel free to open a Github Issue.
 > We recommend using Uptime Robot for 24/7 autocatcher.
 <br>
->We Suggest to Join 
+>We Suggest to Join our Discord discord.gg/ayMbtc5JyZ
+
 ---
 
 ## **DISCLAIMER**
